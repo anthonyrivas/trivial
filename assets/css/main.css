@@ -8,4 +8,14 @@
 }
 .start-button{
     margin-top:2rem;
+    margin-bottom:2rem;
+}
+
+.question-text{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+.answer{
+    text-align: center;
 }
